@@ -1,3 +1,4 @@
+require('chameleon')
 local hi = require('chameleon.utils').get_theme_tb('colors')
 local d = require('stigmata.utils').decoder
 
